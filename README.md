@@ -13,11 +13,11 @@ python send.py PORT[:BAUDRATE] byte1 byte2 ... byteN
 
 #### Example
 ```bash
-$ python send.py COM16:9600 65 98 99
+python send.py COM16:9600 65 98 99
 ```
 
 ```txt
-> Sending characters to port COM16 at speed 9600 bauds.
+Sending characters to port COM16 at speed 9600 bauds.
 ```
 
 
